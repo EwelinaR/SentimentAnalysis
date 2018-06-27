@@ -1,0 +1,1 @@
+Program na wejście przyjmuje plik z komentarzami. Kolejne komentarze są w oddzielnych liniach. Na podstawie specjalnej bazy danych (którą można stworzyć za pomocą tego programu) dzieli komentarze na: POS, NEG lub NEU.
